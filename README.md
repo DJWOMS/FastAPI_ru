@@ -16,11 +16,12 @@
 - [FastAPI Users](https://github.com/frankie567/fastapi-users) Быстро добавьте систему регистрации и аутентификации в ваш проект FastAPI . FastAPI Users разработан так, чтобы быть максимально настраиваемым и адаптируемым.
 - [FastAPI-utils](https://github.com/dmontagu/fastapi-utils) Этот пакет включает в себя ряд утилит, помогающих уменьшить шаблон и повторно использовать общие функции в проектах.
 - [Row Level Permissions for FastAPI](https://github.com/holgi/fastapi-permissions)
-- [ORM](https://github.com/encode/orm/) ORM - является асинхронным ORM для Python с поддержкой Postgres, MySQL и SQLite.
+- [ORM](https://github.com/encode/orm/) - является асинхронным ORM для Python с поддержкой Postgres, MySQL и SQLite.
   - Ядро SQLAlchemy для построения запросов.
   - databases для поддержки асинхронных баз данных.
   - pydantic для проверки данных.
-- [Ormantic](https://github.com/awesometoolbox/ormantic) Ormantic - это ответвление с ORM целью интеграции FastAPIс.
+- [Ormantic](https://github.com/awesometoolbox/ormantic) - это ответвление с ORM целью интеграции FastAPIс.
+- [FastAPI-SQLAlchemy](https://github.com/mfreeborn/fastapi-sqlalchemy) - обеспечивает простую интеграцию между FastAPI и SQLAlchemy в вашем приложении.
 
 
 
