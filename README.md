@@ -20,8 +20,8 @@
   - Ядро SQLAlchemy для построения запросов.
   - databases для поддержки асинхронных баз данных.
   - pydantic для проверки данных.
-- [Ormantic](https://github.com/awesometoolbox/ormantic) - это ответвление с ORM целью интеграции FastAPI.
+- [Ormantic](https://github.com/awesometoolbox/ormantic) - это ответвление с [ORM](https://github.com/encode/orm/) целью интеграции FastAPI.
 - [FastAPI-SQLAlchemy](https://github.com/mfreeborn/fastapi-sqlalchemy) - обеспечивает простую интеграцию между FastAPI и SQLAlchemy в вашем приложении.
-
+- [FastAPI-admin]() - админ панель на основе FastAPI, [tortoise-orm](https://github.com/tortoise/tortoise-orm) и [rest-admin](https://github.com/wxs77577/rest-admin).
 
 
