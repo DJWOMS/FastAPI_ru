@@ -10,7 +10,11 @@
 
 ## Проекты на FastAPI
 - [Пример блога](https://github.com/DJWOMS/blog_FastAPI)
+- [Пример микроблога](https://github.com/DJWOMS/fastapi-microblog) - Микроблог с SqlAlchemy и encode/databases
 - [Пример асинхроной работы в FastAPI с SqlAlchemy](https://github.com/DJWOMS/FastAPI-async-sqlalchemy)
+- [FastAPI с Celery](https://github.com/GregaVrbancic/fastapi-celery)
+- [Microservice FastAPI](https://github.com/paurakhsharma/python-microservice-fastapi) - Научитесь создавать собственный микросервис с использованием FastAPI
+- [FastAPI + GINO + Arq + Uvicorn](https://github.com/leosussan/fastapi-gino-arq-uvicorn) - Высокопроизводительный Async REST API в Python (работает от Redis и PostgreSQL).
 
 ## Расширения для FastAPI
 - [FastAPI Users](https://github.com/frankie567/fastapi-users) - быстро добавьте систему регистрации и аутентификации в ваш проект FastAPI . FastAPI Users разработан так, чтобы быть максимально настраиваемым и адаптируемым.
@@ -24,6 +28,7 @@
 - [Ormantic](https://github.com/awesometoolbox/ormantic) - это ответвление с [ORM](https://github.com/encode/orm/) целью интеграции FastAPI.
 - [FastAPI-SQLAlchemy](https://github.com/mfreeborn/fastapi-sqlalchemy) - обеспечивает простую интеграцию между FastAPI и SQLAlchemy в вашем приложении.
 - [FastAPI-admin](https://github.com/long2ice/fastapi-admin) - админ панель на основе FastAPI, [tortoise-orm](https://github.com/tortoise/tortoise-orm) и [rest-admin](https://github.com/wxs77577/rest-admin).
+
 
 
 
